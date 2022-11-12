@@ -9,8 +9,7 @@ const { parseArgs } = require('util');
 
 
 
-// LOG REQUESTS----------------------------------
-app.use(morgan('tiny'));
+
 
 
 
